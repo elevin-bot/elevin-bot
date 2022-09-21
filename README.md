@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugene Levin 
 - 👀 I’m interested in lots of things
-- 🌱 I’m currently learning Software Engineering in General Assembly
+- I am a Senior Sotware Engineer
 
 <!---
 elevin-bot/elevin-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
